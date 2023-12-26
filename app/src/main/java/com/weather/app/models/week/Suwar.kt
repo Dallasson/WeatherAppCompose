@@ -1,4 +1,4 @@
-package com.weather.app.models
+package com.weather.app.models.week
 
 data class Suwar(
     val end_page: Int,
